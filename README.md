@@ -18,19 +18,19 @@ Here is a list of projects available in this repository:
 
 2. [Project 2: Time Of Day Recognition](Image%20Classification/time-of-day-recognition-using-cnn.ipynb)
    
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/time-of-day-recognition-using-cnn.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/time-of-day-recognition-using-cnn.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/time-of-day-recognition-using-cnn.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/time-of-day-recognition-using-cnn.ipynb)
 
 3. [Project 3: Human Emotion Detection](Image%20Classification/human-emotion-recognition.ipynb)
    
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/human-emotion-recognition.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/human-emotion-recognition.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/human-emotion-recognition.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/human-emotion-recognition.ipynb)
 
 4. [Project 4: Intel Classification Problem](Image%20Classification/intel-classification-problem.ipynb)
    
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/intel-classification-problem.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/intel-classification-problem.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/intel-classification-problem.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/intel-classification-problem.ipynb)
 
 5. [Project 5: Classifying animals Using Pytorch, EfficientNet, VisionTransformers and Big Transfer](Image%20Classification/Classifying-animals-using-Pytorch.ipynb)
    
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/Classifying-animals-using-Pytorch.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/Classifying-animals-using-Pytorch.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/Classifying-animals-using-Pytorch.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/Classifying-animals-using-Pytorch.ipynb)
 
 
 ## Usage 🚀
