@@ -32,6 +32,9 @@ Here is a list of projects available in this repository:
    
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/Classifying-animals-using-Pytorch.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/Classifying-animals-using-Pytorch.ipynb)
 
+6. [Project 6: Yoga pose detection using Keras and EfficientNet](Image%20Classification/yoga_pose_detection.ipynb)
+   
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/yoga_pose_detection.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/yoga_pose_detection.ipynb)
 
 ## Usage 🚀
 
