@@ -24,6 +24,9 @@ Here is a list of projects available in this repository:
    
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/human-emotion-recognition.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/human-emotion-recognition.ipynb)
 
+4. [Project 3: Human Emotion Detection](Image%20Classification/intel-classification-problem.ipynb)
+   
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/intel-classification-problem.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/intel-classification-problem.ipynb.ipynb)
 
 
 ## Usage 🚀
