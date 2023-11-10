@@ -20,7 +20,9 @@ Here is a list of projects available in this repository:
    
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/time-of-day-recognition-using-cnn.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/time-of-day-recognition-using-cnn.ipynb)
 
-
+2. [Project 3: Human Emotion Detection](Image%20Classification/human-emotion-recognition.ipynb)
+   
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/human-emotion-recognition.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%2Classification/human-emotion-recognition.ipynb)
 
 
 
