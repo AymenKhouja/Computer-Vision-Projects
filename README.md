@@ -12,7 +12,7 @@ The primary aim of this repository is to foster knowledge-sharing by presenting 
 
 Here is a list of projects available in this repository:
 
-1. [Project 1: Vehicle Object Detection using Yolo-NAS](Object Detection/Vehicles-Object-Detection.ipynb)
+1. [Project 1: Vehicle Object Detection using Yolo-NAS](Object%20Detection/Vehicles-Object-Detection.ipynb)
 
 
 ## Usage 🚀
