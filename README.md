@@ -14,7 +14,7 @@ Here is a list of projects available in this repository:
 
 1. [Project 1: Vehicle Object Detection using Yolo-NAS](Object%20Detection/Vehicles_Object_Detection.ipynb)
    
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Object%20Detection/Vehicles-Object-Detection.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Object%20Detection/Vehicles-Object-Detection.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Object%20Detection/Vehicles_Object_Detection.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Object%20Detection/Vehicles_Object_Detection.ipynb)
 
 2. [Project 2: Time Of Day Recognition](Image%20Classification/time-of-day-recognition-using-cnn.ipynb)
    
