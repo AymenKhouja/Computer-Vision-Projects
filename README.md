@@ -5,7 +5,7 @@
 
 ## Introduction 🎉
 
-Welcome to the Computer Vision Projects Repository! 🚀 This compilation features a diverse array of Computer Vision (CV) projects that I've developed on the Kaggle platform. Each notebook provides insights into different CV projects, showcasing a spectrum of techniques and approaches to tackle real-world vision challenges.
+Welcome to the Computer Vision Projects Repository! 🚀 This compilation features a diverse array of Computer Vision (CV) projects that I've developed. Each project provides insights into different CV projects, showcasing a spectrum of techniques and approaches to tackle real-world vision challenges.
 
 The primary aim of this repository is to foster knowledge-sharing by presenting implementations, experiences, and solutions related to CV tasks. Whether you're an AI engineer, a Computer Vision enthusiast, or someone keen on delving into CV techniques, this repository is tailored for you! 🌟
 ## Projects 📑
