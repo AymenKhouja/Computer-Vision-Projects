@@ -36,7 +36,7 @@ Here is a list of projects available in this repository:
    
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/yoga_pose_detection.ipynb)  [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/AymenKhouja/Computer-Vision-Projects/blob/main/Image%20Classification/yoga_pose_detection.ipynb)
 
-7. [Project 7: Falling Objects Game](Pose%Estimation/handdetectiongame.py)
+7. [Project 7: Falling Objects Game](Pose%20Estimation/handdetectiongame.py)
    
   
 ## Usage 🚀
